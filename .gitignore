@@ -5,3 +5,4 @@
 **/.buildpath
 
 #Just lua and eclipse, so nothing much here...
+.vscode/settings.json
